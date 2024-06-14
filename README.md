@@ -1,4 +1,4 @@
-# Netflix clone website fontend only.
+# Netflix clone website (frontend) only.
 
 # Getting Started with Create React App
 
