@@ -1,4 +1,10 @@
 # Netflix clone website (frontend) only.
+# Home page
+https://github.com/Siddharth-Pandore/Netflix_clone/assets/139606136/bf500dfe-300b-42e7-8008-41d7d54a10a4
+# Register page
+![Screenshot 2024-06-14 130518](https://github.com/Siddharth-Pandore/Netflix_clone/assets/139606136/0c2302f8-00e0-486f-902e-d9a539d7c8d9)
+# Login page
+![Screenshot 2024-06-14 130539](https://github.com/Siddharth-Pandore/Netflix_clone/assets/139606136/b5d53d87-65b5-4db8-8471-32739c691c13)
 
 # Getting Started with Create React App
 
